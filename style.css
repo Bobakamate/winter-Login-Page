@@ -5,7 +5,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("december.jpg") ;
+    background-image: url("winter.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
 }
